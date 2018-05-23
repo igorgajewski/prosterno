@@ -1,0 +1,7 @@
+PROSTERNO
+
+Wybierz opcje:
+
+[ ] Rozpocznij gre
+[ ] Zasady
+[ ] Koniec

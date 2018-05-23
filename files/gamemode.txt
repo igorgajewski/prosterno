@@ -1,0 +1,8 @@
+PROSTERNO
+
+Wybierz tryb gry:
+
+[ ] 1 gracz
+[ ] 2 graczy
+[ ] Powrot do menu glownego
+[ ] Koniec

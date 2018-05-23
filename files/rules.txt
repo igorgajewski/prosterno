@@ -1,0 +1,7 @@
+PROSTERNO
+Gra przeznaczona dla dwoch graczy. Rozpoczyna gracz grajacy bialymi pionkami.
+Zwyciezca zostaje gracz, ktory jako pierwszy osiagnie koncowa linie po stronie przeciwnika
+lub zbije wszystkie pionki przeciwnika.
+
+[ ] Powrot do menu glownego
+[ ] Koniec
